@@ -33,3 +33,8 @@ i want to sleep so ill update this later but more or less i got the
    # 27/07/25 5h thoughout day
 i want to sleep so this is gonna be short but ive made a few concept sketches of the flipper arm and the cad design in general, also the the train ride i remade the arduino nano schematic based on a few screenshots (then found out arduino is open source and they had files with the schematic already) regardless when the cad is done im gonna make the arduino nano to fit even though im prob not going to use it due to weight and reliability/cost issues
  proper update soon
+
+
+# 29/07/25 too long
+
+ill be moving this project to a personal one from now on, why you may ask well the deadline for highway is more or less here and i dont have the mental capacity to keep working on projects. i've realised my mental health is prob more important and while i love making cool things and having cool things (like this) i dont like the constant burnout, the constant "ill just sleep later" the constant and endless cycle of ruining my sleep schedule, pushing back key events and ignoring studies. my mental health as is, is cooked like im still alive by a few threads although i doubt anyone's gonna read this this is more or less my sign off it means from this point onwards i wont be updating this regularly and i most likely will be moving to bigger and possibly better things
